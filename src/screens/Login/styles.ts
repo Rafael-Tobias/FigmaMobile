@@ -32,7 +32,11 @@ const styles = StyleSheet.create({
     fontSize: 18,
     padding: 5,
     width: "80%",
+<<<<<<< HEAD
     color: colors.white
+=======
+    color: colors.third
+>>>>>>> cc8bfdb890db69887d56ac160dd8edb308a721fe
   },
   icon: {
     fontSize: 24,
